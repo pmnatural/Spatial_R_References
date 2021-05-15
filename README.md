@@ -1,6 +1,7 @@
 # Spatial_R_References
 
 This is my list of bookdowns, gitbooks or similar for working in spatial data science with R. The year corresponds to the last update.
+
 Esta es mi lista de libros tipo bookdown para trabajar en ciencia de datos espaciales con R. El año corresponde al de la última actualización.
 
 # Bookdowns
