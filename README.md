@@ -1,10 +1,6 @@
 # Spatial_R_References
-
-This is my list of bookdowns, gitbooks or similar for working in spatial data science with R. The year corresponds to the last update.
-
 Esta es mi lista de libros tipo bookdown para trabajar en ciencia de datos espaciales con R. El año corresponde al de la última actualización.
-
-# Bookdowns
+This is my list of bookdowns, gitbooks or similar for working in spatial data science with R. The year corresponds to the last update.
 
 1. Robin Lovelace, Jakub Nowosad, Jannes Muenchow. 2021. [Geocomputation with R](https://geocompr.robinlovelace.net/)
 2. Edzer Pebesma, Roger Bivand. 2021. [Spatial Data Science with applications in R](https://keen-swartz-3146c4.netlify.app/)
@@ -18,7 +14,7 @@ Esta es mi lista de libros tipo bookdown para trabajar en ciencia de datos espac
 10.Tom Hengl and Robert A. MacMillan. 2019.[Predictive Soil Mapping with R](https://soilmapper.org/)
 11.Robert Hijman. 2021.[Spatial Data Science with R](https://rspatial.org/index.html)
 12.Michael C. Wimberly. 2021.[Geospatial Data Science With R: Applications in Environmental Geography](https://bookdown.org/mcwimberly/gdswr-book/)
-13.Jerry Davis. 2021.[Introduction to Environmental Data Science](https://bookdown.org/igisc/EnvDataSci/) - Just a little spatial.
+13.Jerry Davis. 2021.[Introduction to Environmental Data Science](https://bookdown.org/igisc/EnvDataSci/)
 14. Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue. 2021. [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
-
-
+13. DukeUniversity Libraries. 2021.[R: Mapping and Geospatial. Geospatial applications using the R programming language](https://guides.library.duke.edu/r-geospatial)
+14. 
