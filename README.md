@@ -3,7 +3,7 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 
 1. Robin Lovelace, Jakub Nowosad, Jannes Muenchow. 2021. [Geocomputation with R](https://geocompr.robinlovelace.net/)
 2. Edzer Pebesma, Roger Bivand. 2021. [Spatial Data Science with applications in R](https://keen-swartz-3146c4.netlify.app/)
-3. Jose I Pareja, Yazid A Barhoush and Wendy P Tori. 2021.[Applications and Spatial Analysis using R: Environmental and Conservation Science](https://bookdown.org/barhoushyazid/Earlham-R/)
+3. Jose I Pareja, Yazid A Barhoush and Wendy P Tori. 2021. [Applications and Spatial Analysis using R: Environmental and Conservation Science](https://bookdown.org/barhoushyazid/Earlham-R/)
 4. Taro Mieno. 2020. [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/)
 5. Brunsdon C., Comber L. 2019. [Code for An Introduction to Spatial Analysis and Mapping in R 2nd edition](https://bookdown.org/lexcomber/brunsdoncomber2e/)
 6. Claudia A Engel. 2019. [Using Spatial Data with R](https://cengel.github.io/R-spatial/)
