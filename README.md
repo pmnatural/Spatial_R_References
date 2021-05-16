@@ -15,6 +15,6 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 12. Michael C. Wimberly. 2021.[Geospatial Data Science With R: Applications in Environmental Geography](https://bookdown.org/mcwimberly/gdswr-book/) 
 13. Jerry Davis. 2021.[Introduction to Environmental Data Science](https://bookdown.org/igisc/EnvDataSci/) 
 14. Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue. 2021. [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html) 
-15. DukeUniversity Libraries. 2021.[R: Mapping and Geospatial. Geospatial applications using the R programming language](https://guides.library.duke.edu/r-geospatial) 
+15. Duke University Libraries. 2021.[R: Mapping and Geospatial. Geospatial applications using the R programming language](https://guides.library.duke.edu/r-geospatial) 
 16. Chris J. Brown et al 2020. [Data wrangling for spatial analysis: R Workshop](https://www.seascapemodels.org/data/data-wrangling-spatial-course.html) 
 17. Manuel Gimond. 2021. [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
