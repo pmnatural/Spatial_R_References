@@ -18,3 +18,5 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 15. Duke University Libraries. 2021. [R: Mapping and Geospatial. Geospatial applications using the R programming language](https://guides.library.duke.edu/r-geospatial) 
 16. Chris J. Brown et al 2020. [Data wrangling for spatial analysis: R Workshop](https://www.seascapemodels.org/data/data-wrangling-spatial-course.html) 
 17. Manuel Gimond. 2021. [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
+18. Mariano Córdoba, Pablo Paccioretti, Franca Giannini Kurina, Cecilia Bruno y Mónica Balzarini. [Guía para el análisis de datos espaciales. Aplicaciones en agricultura](http://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
+19. 
