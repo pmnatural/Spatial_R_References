@@ -19,4 +19,4 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 16. Chris J. Brown et al 2020. [Data wrangling for spatial analysis: R Workshop](https://www.seascapemodels.org/data/data-wrangling-spatial-course.html) 
 17. Manuel Gimond. 2021. [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
 18. Mariano Córdoba, Pablo Paccioretti, Franca Giannini Kurina, Cecilia Bruno y Mónica Balzarini. 2019.[Guía para el análisis de datos espaciales. Aplicaciones en agricultura](http://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
-19. 
+19. Nico Hahn. 2020. [Making Maps with R](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
