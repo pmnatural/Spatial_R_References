@@ -24,3 +24,4 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 21. Marc Becker, Martin Binder, Bernd Bischl, Michel Lang, Florian Pfisterer, Nicholas G. Reich, Jakob Richter, Patrick Schratz, Raphael Sonabend. 2021, [mlr3 book](https://mlr3book.mlr-org.com/spatiotemporal.html)
 22. Antonio Paez. 2021. [An Introduction to Spatial Data Analysis and Statistics: A Course in R](https://www.spatial-analysis-r.org/)
 23. Ken Steif. 2021. [Public Policy Analytics: Code & Context for Data Science in Government](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html)
+24. Ben Best. 2017. [R Advanced Spatial Lessons](https://bbest.github.io/R-adv-spatial-lessons/)
