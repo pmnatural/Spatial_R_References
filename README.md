@@ -25,3 +25,4 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 22. Antonio Paez. 2021. [An Introduction to Spatial Data Analysis and Statistics: A Course in R](https://www.spatial-analysis-r.org/)
 23. Ken Steif. 2021. [Public Policy Analytics: Code & Context for Data Science in Government](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html)
 24. Ben Best. 2017. [R Advanced Spatial Lessons](https://bbest.github.io/R-adv-spatial-lessons/)
+25. Reka Solymosi and Juanjo Medina. 2021. [Crime Mapping in R](https://maczokni.github.io/crime_mapping_textbook/)
