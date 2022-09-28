@@ -9,7 +9,7 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 6. Claudia A Engel. 2019. [Using Spatial Data with R](https://cengel.github.io/R-spatial/)
 7. Paula Moraga. 2019. [Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny](https://www.paulamoraga.com/book-geospatial/)
 8. Michel Dorman. 2021. [Introduction to Spatial Data Programming with R](https://geobgu.xyz/r/)
-9. Francisco Rowe and Dani Arribas-Bel. 2021. [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/) 
+9. Francisco Rowe and Dani Arribas-Bel. 2022. [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/) 
 10. Tom Hengl and Robert A. MacMillan. 2019. [Predictive Soil Mapping with R](https://soilmapper.org/) 
 11. Robert Hijman. 2021. [Spatial Data Science with R](https://rspatial.org/index.html) 
 12. Michael C. Wimberly. 2021. [Geospatial Data Science With R: Applications in Environmental Geography](https://bookdown.org/mcwimberly/gdswr-book/) 
