@@ -27,4 +27,4 @@ This is my list of bookdowns, gitbooks or similar for working in spatial data sc
 24. Ben Best. 2017. [R Advanced Spatial Lessons](https://bbest.github.io/R-adv-spatial-lessons/)
 25. Reka Solymosi and Juanjo Medina. 2021. [Crime Mapping in R](https://maczokni.github.io/crime_mapping_textbook/)
 26. Adrian Baddeley, Ege Rubak and Rolf Turner. 2016. Website companion to [Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org/)
- 
+27. Alec L. Robitaille, Juliana Baluffi-Fry, Quinn M.R. Webber, Julie W. Turner, Isabella C. Richmond, Christina M. Prokopenko, Katrien A. Kingdon. 2021. [Wildlife Evolutionary Ecology Lab - WEEL Guide](https://weel.gitlab.io/guide/index.html)  
