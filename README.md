@@ -1,5 +1,5 @@
-Esta es mi lista de libros tipo bookdown para trabajar en ciencia de datos espaciales con R. El año corresponde al de la última actualización.
-This is my list of bookdowns, gitbooks or similar for working in spatial data science with R. The year corresponds to the last update.
+Esta es mi lista de libros tipo bookdown para trabajar en ciencia de datos espaciales con R, enfocado en referencias para hacer analisis con estadistica espacial. Aqui no inclui referencias solo dedicadas a mapeo con R, imagenes satelitales o analisis de redes, ni viñetas de paquetes.  El año corresponde al de la última actualización.
+This is my list of bookdowns, gitbooks or similar for working in spatial data science with R, particularly including spatial statistics. Lots of references focused on  with just mapping, visualization, satellite imagery or network analisis are not included. The year corresponds to the last update.
 
 1. Robin Lovelace, Jakub Nowosad, Jannes Muenchow. 2022. [Geocomputation with R](https://geocompr.robinlovelace.net/)
 2. Edzer Pebesma, Roger Bivand. 2022. [Spatial Data Science with applications in R](https://r-spatial.org/book/)
